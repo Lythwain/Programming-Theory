@@ -1,9 +1,11 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+Programming-Theory/[Ll]ibrary/
+Programming-Theory/[Tt]emp/
+Programming-Theory/[Oo]bj/
+Programming-Theory/[Bb]uild/
+Programming-Theory/[Bb]uilds/
+Programming-Theory/Assets/AssetStoreTools*
+Programming-Theory/[Ll]ogs/
+Programming-Theory/[Uu]serSettings
 
 # Visual Studio cache directory
 .vs/
@@ -35,3 +37,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+*.log
