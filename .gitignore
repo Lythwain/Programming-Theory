@@ -39,4 +39,6 @@ sysinfo.txt
 *.unitypackage
 
 *.log
-/Programming-Theory/Assets/TextMesh Pro
+
+# TextMesh Pro files
+Programming-Theory/[Aa]ssets/TextMesh*Pro/
