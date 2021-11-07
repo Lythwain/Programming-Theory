@@ -41,4 +41,4 @@ sysinfo.txt
 *.log
 
 # TextMesh Pro files
-Programming-Theory/[Aa]ssets/TextMesh*Pro/
+Programming-Theory/[Aa]ssets/TextMesh*Pro/*
